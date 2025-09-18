@@ -1,1 +1,3 @@
 # odin-recipes
+This project is a simple website using basic recipes...
+by the end of this project , trying to implement all the basic html tags and to make the first website functional..
