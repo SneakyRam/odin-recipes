@@ -35,7 +35,7 @@ You can view the live site here:
 
 ##  Acknowledgements
 
-* A huge thank you to **[The Odin Project](https://www.theodinproject.com/)** for providing the amazing curriculum that made this project possible.
+* Shoutout to **[The Odin Project](https://www.theodinproject.com/)** for providing the amazing curriculum .
 
 ---
 
